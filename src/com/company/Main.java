@@ -12,5 +12,6 @@ public class Main {
     private static int cantToMeter(int x) {
         x= 100*x;
         return x;
+
     }
 }
